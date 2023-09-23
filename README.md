@@ -2,4 +2,4 @@
 
 Carousel is  platform for delivering social and emotional learning (SEL) content to computers and mobile devices. You can learn more about our mission at [joincarousel.io](https://joincarousel.io).
 <br/><br/>
-If you're interested in working with us, please get in touch at the email address above.
+If you're interested in working with us, please get in touch at info@joincarousel.io.
